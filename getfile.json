@@ -1,8 +1,8 @@
 {
     "result": true,
     "plugins_": {
-        "games.lua":"RAMBOCLI"
-        "ZHRFA.lua":"RAMBOCLI"
-        "JSON_BOT.lua":"RAMBOCLI"
+        "games.lua":"TH3VICTORY"
+        "ZHRFA.lua":"TH3VICTORY"
+        "JSON_BOT.lua":"TH3VICTORY"
     }
 }
