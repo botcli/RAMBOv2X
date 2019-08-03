@@ -97,7 +97,7 @@ end
 if #VIP ~= 0 then 
 t = t..'"VIP":['
 for k,v in pairs(VIP) do
-local u = tahadevstorm:get(DEVSTOR.."user:Name" .. v) or '@STORMCLI'
+local u = tahadevstorm:get(DEVSTOR.."user:Name" .. v) or '@TH3VICTORY'
 if k == 1 then
 t =  t..'"'..v..'"'
 else
@@ -109,7 +109,7 @@ end
 if #MOD ~= 0 then
 t = t..'"MOD":['
 for k,v in pairs(MOD) do
-local u = tahadevstorm:get(DEVSTOR.."user:Name" .. v) or '@STORMCLI'
+local u = tahadevstorm:get(DEVSTOR.."user:Name" .. v) or '@TH3VICTORY'
 if k == 1 then
 t =  t..'"'..v..'"'
 else
@@ -121,7 +121,7 @@ end
 if #MDER ~= 0 then
 t = t..'"MDER":['
 for k,v in pairs(MDER) do
-local u = tahadevstorm:get(DEVSTOR.."user:Name" .. v) or '@STORMCLI'
+local u = tahadevstorm:get(DEVSTOR.."user:Name" .. v) or '@TH3VICTORY'
 if k == 1 then
 t =  t..'"'..v..'"'
 else
@@ -133,7 +133,7 @@ end
 if #MNSH ~= 0 then
 t = t..'"MNSH":['
 for k,v in pairs(MNSH) do
-local u = tahadevstorm:get(DEVSTOR.."user:Name" .. v) or '@STORMCLI'
+local u = tahadevstorm:get(DEVSTOR.."user:Name" .. v) or '@TH3VICTORY'
 if k == 1 then
 t =  t..'"'..v..'"'
 else
